@@ -7,7 +7,12 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types:
+- Labs
+parent_title: Labs
+parent_type: CourseSection
 resourcetype: Image
 title: datasheet1.jpg
+type: OCWImage
 uid: 9e8a55d0-20be-d89f-633d-6db23df01ef8
 ---
