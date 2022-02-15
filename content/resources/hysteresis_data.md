@@ -9,6 +9,5 @@ parent_title: Labs
 parent_type: CourseSection
 resourcetype: Other
 title: hysteresis_data.xls
-type: OCWFile
 uid: a49ce953-99ae-e64c-9ea0-63818af29dba
 ---

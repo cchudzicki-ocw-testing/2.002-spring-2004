@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: lec22_ex_prob.pdf
-type: OCWFile
 uid: ceb955ca-14dd-8d86-69a5-4d22cedfb338
 ---

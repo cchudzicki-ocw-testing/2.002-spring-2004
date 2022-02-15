@@ -9,6 +9,5 @@ parent_title: Exams
 parent_type: CourseSection
 resourcetype: Document
 title: quiz2_sol.pdf
-type: OCWFile
 uid: 90224e78-39c0-6d6d-3931-64339d96bc5f
 ---

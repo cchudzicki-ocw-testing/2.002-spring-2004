@@ -10,6 +10,5 @@ parent_title: Labs
 parent_type: CourseSection
 resourcetype: Document
 title: creep_viscoelast.pdf
-type: OCWFile
 uid: 0278c010-18c4-f228-1214-a661d9c95c32
 ---

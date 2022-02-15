@@ -9,6 +9,5 @@ parent_title: Readings
 parent_type: CourseSection
 resourcetype: Document
 title: ra6.pdf
-type: OCWFile
 uid: 290e6a60-8f65-ca33-bfb5-2bdb61df9a68
 ---

@@ -9,6 +9,5 @@ parent_title: Labs
 parent_type: CourseSection
 resourcetype: Document
 title: datasheet3.pdf
-type: OCWFile
 uid: 4bf63679-c5be-d41e-457b-1eb48c6a6776
 ---

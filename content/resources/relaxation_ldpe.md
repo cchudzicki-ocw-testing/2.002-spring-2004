@@ -9,6 +9,5 @@ parent_title: Labs
 parent_type: CourseSection
 resourcetype: Other
 title: relaxation_ldpe.xls
-type: OCWFile
 uid: 16bf3125-7474-dd85-0d51-759f3927568c
 ---

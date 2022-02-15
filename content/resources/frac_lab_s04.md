@@ -10,6 +10,5 @@ parent_title: Labs
 parent_type: CourseSection
 resourcetype: Document
 title: frac_lab_s04.pdf
-type: OCWFile
 uid: eb7caf73-175c-e242-8509-4cfc3b1dd4df
 ---

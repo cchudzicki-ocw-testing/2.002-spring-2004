@@ -9,6 +9,5 @@ parent_title: Labs
 parent_type: CourseSection
 resourcetype: Other
 title: data_lab5fall03.xls
-type: OCWFile
 uid: f7a94a33-a149-667a-add9-df5d5a9160e7
 ---

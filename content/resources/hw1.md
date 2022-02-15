@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: hw1.pdf
-type: OCWFile
 uid: 6ed7e969-d15b-114c-a1c4-738adb529321
 ---

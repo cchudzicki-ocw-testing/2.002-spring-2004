@@ -9,6 +9,5 @@ parent_title: Labs
 parent_type: CourseSection
 resourcetype: Document
 title: sampledata.pdf
-type: OCWFile
 uid: 72ec0b83-c9aa-06de-58cd-94c68a2aac2c
 ---

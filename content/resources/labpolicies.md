@@ -9,6 +9,5 @@ parent_title: Labs
 parent_type: CourseSection
 resourcetype: Document
 title: labpolicies.pdf
-type: OCWFile
 uid: 0a88bade-3c3c-62d2-6cd2-4e31d9bad7b0
 ---

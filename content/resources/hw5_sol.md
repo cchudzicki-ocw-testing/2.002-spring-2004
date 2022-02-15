@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: hw5_sol.pdf
-type: OCWFile
 uid: 465cb87d-f954-4456-d005-036b8af19800
 ---

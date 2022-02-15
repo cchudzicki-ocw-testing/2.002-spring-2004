@@ -10,6 +10,5 @@ parent_title: Labs
 parent_type: CourseSection
 resourcetype: Document
 title: datasheet2.pdf
-type: OCWFile
 uid: 1a8c0b01-36a7-6426-c7a1-58827ae87c6b
 ---

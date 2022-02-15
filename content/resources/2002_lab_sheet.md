@@ -10,6 +10,5 @@ parent_title: Labs
 parent_type: CourseSection
 resourcetype: Document
 title: 2002_lab_sheet.pdf
-type: OCWFile
 uid: 00cf4c30-d2a4-c457-3f78-f2950809e765
 ---
