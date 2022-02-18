@@ -45,7 +45,7 @@ Stress and Equilibrium
 Stress-­strain
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/ra1))
+({{< resource_link 2a6f2692-9c0e-1dc7-34e0-c931b567bc20 "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -71,7 +71,7 @@ Mechanisms of Elasticity and Viscoelasticity
 {{< tdopen >}}
 
 
-([PDF]({{< baseurl >}}/resources/ra3))
+({{< resource_link 65472d28-3d2a-4838-e059-b362fe2e9a91 "PDF" >}})
 
 
 {{< tdclose >}}
@@ -135,7 +135,7 @@ Limits to Elasticity: Strength and Multi­-axial Yield Condition
 Boundary Conditions and Boundary Value Problems
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/ra6))
+({{< resource_link 290e6a60-8f65-ca33-bfb5-2bdb61df9a68 "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -257,7 +257,7 @@ Lab 5: Heat Treatment
 Applications of Limit Analysis
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/ra12))
+({{< resource_link 8f7a81c5-d0c7-a9fe-7f61-5a75a9e523ee "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -295,7 +295,7 @@ High-temperature Deformation Mechanisms
 Resisting Creep
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/ra15))
+({{< resource_link a0fb51af-bf11-46b8-dbec-b87e0e344674 "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -343,7 +343,7 @@ Critical Stress Intensity 
 {{< tdopen >}}
 
 
-([PDF]({{< baseurl >}}/resources/ra17))
+({{< resource_link 6444392c-e0af-864b-ac9e-85415e49dd77 "PDF" >}})
 
 
 {{< tdclose >}}
@@ -383,7 +383,7 @@ Applications of LEFM 
 {{< tdopen >}}
 
 
-([PDF]({{< baseurl >}}/resources/ra19))
+({{< resource_link 5a1859f0-fc87-faab-980b-940b095a0ff5 "PDF" >}})
 
 
 {{< tdclose >}}
