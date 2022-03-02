@@ -57,9 +57,9 @@ Stress-­strain
 Applications: Beam Bending, Buckling and Vibration
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link bc25a56b-5a91-ad29-ca5c-7419616686f7 "PDF 1" >}})  
+({{% resource_link bc25a56b-5a91-ad29-ca5c-7419616686f7 "PDF 1" %}})  
   
-({{< resource_link 86c0e94d-7d1c-867d-f409-a741d46cadf7 "PDF 2" >}})
+({{% resource_link 86c0e94d-7d1c-867d-f409-a741d46cadf7 "PDF 2" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -95,7 +95,7 @@ Lab 1: Beam Bending, Buckling and Vibration
 3-D Linear Thermo-elasticity: Strain-displacement, Stress-strain-temperature, and Stress-equilibrium 
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link 3c32a9b4-f43f-39f2-6ec9-bd41bd0828b7 "PDF" >}})
+({{% resource_link 3c32a9b4-f43f-39f2-6ec9-bd41bd0828b7 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -108,7 +108,7 @@ Simple States of Elastic Stress, Strain, and Displacement 
 {{< tdclose >}}
 {{< tdopen >}}
   
-({{< resource_link 446de064-719d-fa51-fb8e-349108ee4ee5 "PDF" >}})
+({{% resource_link 446de064-719d-fa51-fb8e-349108ee4ee5 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -147,7 +147,7 @@ Elasticity of Composite Materials
 Applications
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link f7b561fb-e876-2ff7-3da9-236e6c0fff73 "PDF" >}})
+({{% resource_link f7b561fb-e876-2ff7-3da9-236e6c0fff73 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -178,7 +178,7 @@ Uniaxial Elastic­-plastic Behavior
 Elastic-­plastic Beam­-bending
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link 117060f7-6aba-ef1d-4d4a-387873ec38eb "PDF" >}})
+({{% resource_link 117060f7-6aba-ef1d-4d4a-387873ec38eb "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -217,7 +217,7 @@ Strengthening Mechanisms
 Strain Hardening
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link ea1511da-0df3-4e52-4236-0dd60d66eb7c "PDF" >}})
+({{% resource_link ea1511da-0df3-4e52-4236-0dd60d66eb7c "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -229,7 +229,7 @@ Strain Hardening
 Limit Analysis
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link c651b01c-d3c3-7ab9-4e04-003c17c30e93 "PDF" >}})
+({{% resource_link c651b01c-d3c3-7ab9-4e04-003c17c30e93 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -277,11 +277,11 @@ Quiz I
 High­-temperature Deformation: Creep and Stress Relaxation
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link 6369979e-1b67-46c3-095b-7de56a469fa6 "PDF 1" >}})  
+({{% resource_link 6369979e-1b67-46c3-095b-7de56a469fa6 "PDF 1" %}})  
   
-({{< resource_link 576ad58d-357f-ffcb-35fd-1071a01e9ce1 "PDF 2" >}})  
+({{% resource_link 576ad58d-357f-ffcb-35fd-1071a01e9ce1 "PDF 2" %}})  
   
-({{< resource_link 01fcf618-adda-f668-da45-2cb955d67edb "PDF 3" >}})
+({{% resource_link 01fcf618-adda-f668-da45-2cb955d67edb "PDF 3" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -295,7 +295,7 @@ High-temperature Deformation Mechanisms
 Resisting Creep
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link 3a2feec4-0586-5a89-ddad-cb07f3828ca5 "PDF" >}})
+({{% resource_link 3a2feec4-0586-5a89-ddad-cb07f3828ca5 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -340,7 +340,7 @@ Crack-tip Stress Intensity Factors
 Critical Stress Intensity 
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link c8427bfa-5ed5-f62a-b75b-8f3ab7568f50 "PDF" >}})
+({{% resource_link c8427bfa-5ed5-f62a-b75b-8f3ab7568f50 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -364,7 +364,7 @@ Lab 7: Fracture Toughness
 Linear Elastic Fracture Mechanics (LEFM) 
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link 4a148399-d500-c196-eac4-45974a77e98f "PDF" >}})
+({{% resource_link 4a148399-d500-c196-eac4-45974a77e98f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -376,7 +376,7 @@ Linear Elastic Fracture Mechanics (LEFM) 
 Applications of LEFM
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link 82e283a3-e428-933f-8ee5-a19c5e971c1f "PDF" >}})
+({{% resource_link 82e283a3-e428-933f-8ee5-a19c5e971c1f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -407,7 +407,7 @@ Fatigue Crack Propagation
 Defect-tolerant Fatigue Design and Maintenance 
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link 14bb2a5b-5683-8e5c-31f3-75cf02658392 "PDF" >}})
+({{% resource_link 14bb2a5b-5683-8e5c-31f3-75cf02658392 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -419,7 +419,7 @@ Defect-tolerant Fatigue Design and Maintenance 
 Defect-free Fatigue Design: High-­cycle Fatigue 
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link db45866e-2fc0-cf16-4d96-828936748e8f "PDF" >}})
+({{% resource_link db45866e-2fc0-cf16-4d96-828936748e8f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -431,7 +431,7 @@ Defect-free Fatigue Design: High-­cycle Fatigue 
 Defect­-free Fatigue Design: Low-cycle Fatigue 
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link ceb955ca-14dd-8d86-69a5-4d22cedfb338 "PDF" >}})
+({{% resource_link ceb955ca-14dd-8d86-69a5-4d22cedfb338 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
