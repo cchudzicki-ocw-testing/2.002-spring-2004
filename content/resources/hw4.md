@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: hw4.pdf
 uid: 24e5f169-e36b-a65f-edd3-49a5c1e26cf9
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

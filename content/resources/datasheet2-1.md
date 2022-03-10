@@ -15,4 +15,8 @@ parent_type: CourseSection
 resourcetype: Image
 title: datasheet2.jpg
 uid: 82e56de8-ecdc-60da-8865-49d4bcf32a94
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

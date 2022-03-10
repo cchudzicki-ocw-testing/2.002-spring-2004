@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: labpolicies.pdf
 uid: 0a88bade-3c3c-62d2-6cd2-4e31d9bad7b0
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: 2002_lab_sheet.pdf
 uid: 00cf4c30-d2a4-c457-3f78-f2950809e765
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

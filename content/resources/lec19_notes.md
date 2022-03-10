@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: lec19_notes.pdf
 uid: 82e283a3-e428-933f-8ee5-a19c5e971c1f
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

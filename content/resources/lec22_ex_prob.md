@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: lec22_ex_prob.pdf
 uid: ceb955ca-14dd-8d86-69a5-4d22cedfb338
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

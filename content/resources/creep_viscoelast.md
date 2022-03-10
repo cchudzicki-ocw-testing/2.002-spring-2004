@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: creep_viscoelast.pdf
 uid: 0278c010-18c4-f228-1214-a661d9c95c32
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

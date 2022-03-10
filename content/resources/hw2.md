@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: hw2.pdf
 uid: 58177610-7f75-6980-c212-f5284766070c
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

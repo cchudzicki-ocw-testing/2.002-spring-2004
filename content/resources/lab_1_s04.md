@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: lab_1_s04.pdf
 uid: 9aebe9fc-6669-d928-aa71-6a5033cc9c9f
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

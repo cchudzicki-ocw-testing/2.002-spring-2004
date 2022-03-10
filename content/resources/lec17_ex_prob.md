@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: lec17_ex_prob.pdf
 uid: c8427bfa-5ed5-f62a-b75b-8f3ab7568f50
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

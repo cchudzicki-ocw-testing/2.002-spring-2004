@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Other
 title: relaxation_ldpe.xls
 uid: 16bf3125-7474-dd85-0d51-759f3927568c
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

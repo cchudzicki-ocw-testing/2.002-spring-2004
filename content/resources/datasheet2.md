@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: datasheet2.pdf
 uid: 1a8c0b01-36a7-6426-c7a1-58827ae87c6b
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

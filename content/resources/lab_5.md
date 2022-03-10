@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Other
 title: lab_5.xls
 uid: 0fcb6ce9-c0ff-1970-f185-eb017781d77a
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

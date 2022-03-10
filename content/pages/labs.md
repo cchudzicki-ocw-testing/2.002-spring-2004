@@ -5,6 +5,10 @@ learning_resource_types:
 ocw_type: CourseSection
 title: Labs
 uid: aacc981b-a167-de94-2676-9f9acac3c353
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 {{< tableopen >}}

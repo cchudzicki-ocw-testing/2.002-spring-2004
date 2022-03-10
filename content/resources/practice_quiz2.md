@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: practice_quiz2.pdf
 uid: 9208e626-d933-ab60-24ce-319a3479869a
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

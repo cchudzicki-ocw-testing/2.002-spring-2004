@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: frac_lab_s04.pdf
 uid: eb7caf73-175c-e242-8509-4cfc3b1dd4df
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

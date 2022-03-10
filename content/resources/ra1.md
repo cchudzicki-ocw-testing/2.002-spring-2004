@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: ra1.pdf
 uid: 2a6f2692-9c0e-1dc7-34e0-c931b567bc20
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

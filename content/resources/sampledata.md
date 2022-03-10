@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: sampledata.pdf
 uid: 72ec0b83-c9aa-06de-58cd-94c68a2aac2c
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

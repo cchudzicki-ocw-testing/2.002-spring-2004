@@ -5,6 +5,10 @@ learning_resource_types:
 ocw_type: CourseSection
 title: Exams
 uid: b4cde362-751f-af5e-f070-be51ba1a87d7
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Practice Exam I ({{% resource_link 198e2b56-255e-dc72-a371-46e5505141ec "PDF" %}})
