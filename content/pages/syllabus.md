@@ -30,7 +30,7 @@ labs: 1 session / week, 2 hours / session
 
 4\. Ashby, M. F., and D. R. H. Jones. _Engineering Materials 1: An Introduction to their Properties and Applications._ 2nd ed. Oxford, UK: Butterworth-Heinemann, 1996. ISBN: 9780750627665.
 
-5\. Pratap, Rudra. _Getting Started with MATLAB_®. Oxford, UK: Oxford Press, 2001. ISBN: 9780195150148.
+5\. Pratap, Rudra. _Getting Started with MATLAB®_. Oxford, UK: Oxford Press, 2001. ISBN: 9780195150148.
 
 ### Of Interest
 
