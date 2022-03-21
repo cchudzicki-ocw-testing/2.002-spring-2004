@@ -88,8 +88,11 @@ Boundary Conditions and Boundary Value Problems
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 9
 {{< tdclose >}}{{< tdopen >}}
-Elasticity of Composite Materials   
+
+Elasticity of Composite Materials
+
 Applications
+
 {{< tdclose >}}{{< tdopen >}}
 ({{% resource_link f7b561fb-e876-2ff7-3da9-236e6c0fff73 "PDF" %}})
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
