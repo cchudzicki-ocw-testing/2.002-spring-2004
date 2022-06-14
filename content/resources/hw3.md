@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Problem set.
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/2-002-mechanics-and-materials-ii-spring-2004/29a1c6da9fb58166f5b5a6b2875146f6_hw3.pdf
+file: /courses/2-002-mechanics-and-materials-ii-spring-2004/29a1c6da9fb58166f5b5a6b2875146f6_hw3.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments
@@ -17,3 +17,4 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
+Problem set.

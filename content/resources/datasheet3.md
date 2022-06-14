@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This handout contains a data table for Laboratory Module 1.
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/2-002-mechanics-and-materials-ii-spring-2004/4bf63679c5bed41e457b1eb48c6a6776_datasheet3.pdf
+file: /courses/2-002-mechanics-and-materials-ii-spring-2004/4bf63679c5bed41e457b1eb48c6a6776_datasheet3.pdf
 file_type: application/pdf
 learning_resource_types:
 - Labs
@@ -17,3 +17,4 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
+This handout contains a data table for Laboratory Module 1.

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Reading assignment.
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/2-002-mechanics-and-materials-ii-spring-2004/290e6a608f65ca33bfb52bdb61df9a68_ra6.pdf
+file: /courses/2-002-mechanics-and-materials-ii-spring-2004/290e6a608f65ca33bfb52bdb61df9a68_ra6.pdf
 file_type: application/pdf
 learning_resource_types:
 - Readings
@@ -17,3 +17,4 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
+Reading assignment.

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This handout contains an example problem from the lecture.
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/2-002-mechanics-and-materials-ii-spring-2004/c8427bfa5ed5f62ab75b8f3ab7568f50_lec17_ex_prob.pdf
+file: /courses/2-002-mechanics-and-materials-ii-spring-2004/c8427bfa5ed5f62ab75b8f3ab7568f50_lec17_ex_prob.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
@@ -17,3 +17,4 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
+This handout contains an example problem from the lecture.
