@@ -5,6 +5,7 @@ file: /courses/2-002-mechanics-and-materials-ii-spring-2004/12308cd1c96b1e02dbb5
 file_type: text/plain
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
